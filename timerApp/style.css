@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+section{
+  background-image: url("sky1.jpeg");
+  height: 500px; 
+  background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover;
+ text-shadow: 50px;
+ opacity: 0.8;
+}
+section{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+  h1{
+    font-size: 80px;
+    font-family:'Courier New', Courier, monospace;
+    
+}
